@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306780705678",
+    "project_id": "app-mini-d1274",
+    "storage_bucket": "app-mini-d1274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306780705678:android:523f0a88ec053374e90adf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2_cli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWr5bCvEt9n0wEnY8GSGU2yo5isrqnjEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
